@@ -72,17 +72,12 @@ def policy_evaluation(pi, P, gamma=0.9, theta=1e-10):
 
 ### Policy 2:
 ![image](https://github.com/NITHISHKUMAR-P/rl-policy-evaluation/assets/93427017/45023493-bbac-4b03-b4f3-b6510d08efd8)
-
 ![image](https://github.com/NITHISHKUMAR-P/rl-policy-evaluation/assets/93427017/0252d017-3b34-490e-b0cf-c5b4f9a94052)
-
 ![image](https://github.com/NITHISHKUMAR-P/rl-policy-evaluation/assets/93427017/bf576126-ed5b-44af-bf04-9d576dbef1d1)
-
 ### Comparison:
 ![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/c18d1016-be97-442d-9cd6-819c4794496a)
 ### Conclusion:
 ![image](https://github.com/Jovita08/rl-policy-evaluation/assets/94174503/41fb8906-0847-4e7c-a302-3d165d19bcbf)
-
-
 
 ## RESULT :
 Thus, a Python program is developed to evaluate the given policy.
